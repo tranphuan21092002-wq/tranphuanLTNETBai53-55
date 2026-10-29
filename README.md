@@ -3,3 +3,5 @@
 <img width="1917" height="1015" alt="Screenshot 2026-10-29 151004" src="https://github.com/user-attachments/assets/1535911d-daba-4231-9b10-2a835b4de75f" />
 ## bai 54
 <img width="1917" height="1020" alt="Screenshot 2026-10-29 155452" src="https://github.com/user-attachments/assets/6f73e319-7d94-4bba-b86e-2a70ca37779e" />
+## bai 55
+<img width="1217" height="1000" alt="Screenshot 2026-10-29 163000" src="https://github.com/user-attachments/assets/1a1431db-4928-437c-ad01-033ab931e45d" />
