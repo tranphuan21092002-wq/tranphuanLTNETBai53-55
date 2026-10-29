@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Downloads/CafePOS_Ready/CafePOS_Ready/CafePOS.csproj" Id="a8d97b42-13c7-4c0e-9c66-da4a12b4f3a1">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
